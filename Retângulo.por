@@ -13,15 +13,5 @@ programa {
      leia(valor_da_altura)
 
      escreva("O valor da área do triângulo é: " + valor_da_base*valor_da_altura)
-
-     
-
-     
-
-  
-
-     
-
-    
   }
 }
